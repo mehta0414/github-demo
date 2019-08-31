@@ -1,1 +1,2 @@
-Second file in the Project 
+Second file in the Project.
+Adding more text to the file
